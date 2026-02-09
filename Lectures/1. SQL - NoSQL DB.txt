@@ -1,0 +1,10 @@
+
+RELATIONAL DB - Реляционные БД
+Подвиды SQL:
+	MySQL
+	PostgreSQL
+	Oracle
+	SQL Server (Microsoft)
+
+NoSQL DB - Не реляционные БД
+	Нет таблиц или связей, не понимают SQL, свой язык запросов.
